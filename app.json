@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "wa",
+    "slug": "wa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/hamburger.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/hamburger.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/hamburger.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "owner": "fugias",
+    "extra": {
+      "eas": {
+        "projectId": "7bd6d7b5-4406-4d86-8521-f357c6f401d1"
+      }
+    }
+  }
+}
